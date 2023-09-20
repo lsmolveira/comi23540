@@ -1,0 +1,13 @@
+main{
+    display: grid;
+    min-height: 500px;
+    /* grid-template-columns: 100px 100px 100px;
+    grid-template-rows:100px 100px 100px; */
+    /* justify-content: center; */
+    align-content: center;
+    
+}
+.items{
+    border: 2px solid green;
+    
+}
